@@ -16,6 +16,6 @@ About Me:
 
 :hammer_and_wrench:*Linkedin profile in construction*:hammer_and_wrench:
 
-[![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight)](https://github.com/FelipeElias021)
+[![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FelipeElias021&layout=compact&theme=material-palenight)](https://github.com/FelipeElias021)
 
 <!--Profile views-->
