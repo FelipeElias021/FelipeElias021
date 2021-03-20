@@ -17,4 +17,4 @@ About Me:
 
 [![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight)](https://github.com/FelipeElias021)
 
-!<--Profile views-->
+<!--Profile views-->
