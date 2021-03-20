@@ -7,7 +7,7 @@ About Me:
 * I want to be better than yesterday
 
 ## Languages:
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+[![HTML](https://img.shields.io/static/v1?style=for-the-badge&logo=HTML5&message=HTML5&color=E34F26&label=&logoColor=white)](https://github.com/FelipeElias021) [![CSS](https://img.shields.io/static/v1?style=for-the-badge&logo=CSS3&message=CSS3&color=1572B6&label=)](https://github.com/FelipeElias021) [![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=JavaScript&message=Javascript&color=F7DF1E&label=&logoColor=black)] (https://github.com/FelipeElias021)
 
 ## Contact:
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[github].svg" />
