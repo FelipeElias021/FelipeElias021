@@ -1,18 +1,35 @@
-[![banner](banner.jpeg)](https://github.com/FelipeElias021)
+<div align="center">
+  <a href="https://github.com/FelipeElias021">
+  <img  src="banner.jpeg"/>
+   </a>
+</div>
 
-About Me:
+Hello,
 * I'm 18 years old, my name is Felipe
 * I Live in Goiânia/Go, Brazil
 * I'm currently studying Sistema de Informação - FASAM
 * I want to be better than yesterday
 
+<div align="left">
+  <a href="https://github.com/FelipeElias021">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeElias021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeElias021&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 ## Languages:
-[![HTML](https://img.shields.io/static/v1?style=for-the-badge&logo=HTML5&message=HTML5&color=E34F26&label=&logoColor=white)](https://github.com/FelipeElias021) [![CSS](https://img.shields.io/static/v1?style=for-the-badge&logo=CSS3&message=CSS3&color=1572B6&label=)](https://github.com/FelipeElias021) [![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=JavaScript&message=Javascript&color=F7DF1E&label=&logoColor=black)](https://github.com/FelipeElias021) [![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=c&message=c&color=F7DF1E&label=&logoColor=black)](https://github.com/FelipeElias021)
-
+  <div style="display: inline_block">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
+  
 ## Contact:
-
-[![linkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-elias-a48783204/) [![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeElias021) [![discord](https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/272697882023428106/) [![mail](https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:fe.mourex21@gmail.com)
-
-[![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FelipeElias021&layout=compact&theme=material-palenight)](https://github.com/FelipeElias021)
-
+<div>
+ <a href="https://discordapp.com/users/272697882023428106/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:fe.mourex21@gmail.com"><img src="https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-elias-a48783204/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+ 
 <!--Profile views-->
