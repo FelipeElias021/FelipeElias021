@@ -32,5 +32,5 @@ Hello,
   <a href="https://www.linkedin.com/in/felipe-elias-a48783204/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
-![Snake animation](https://github.com/FelipeElias021/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/FelipeElias021/FelipeElias021/blob/output/github-contribution-grid-snake.svg)
 <!--Profile views-->
