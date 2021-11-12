@@ -7,7 +7,7 @@ About Me:
 * I want to be better than yesterday
 
 ## Languages:
-[![HTML](https://img.shields.io/static/v1?style=for-the-badge&logo=HTML5&message=HTML5&color=E34F26&label=&logoColor=white)](https://github.com/FelipeElias021) [![CSS](https://img.shields.io/static/v1?style=for-the-badge&logo=CSS3&message=CSS3&color=1572B6&label=)](https://github.com/FelipeElias021) [![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=JavaScript&message=Javascript&color=F7DF1E&label=&logoColor=black)](https://github.com/FelipeElias021)
+[![HTML](https://img.shields.io/static/v1?style=for-the-badge&logo=HTML5&message=HTML5&color=E34F26&label=&logoColor=white)](https://github.com/FelipeElias021) [![CSS](https://img.shields.io/static/v1?style=for-the-badge&logo=CSS3&message=CSS3&color=1572B6&label=)](https://github.com/FelipeElias021) [![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=JavaScript&message=Javascript&color=F7DF1E&label=&logoColor=black)](https://github.com/FelipeElias021) [![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=C&message=C&color=F7DF1E&label=&logoColor=black)](https://github.com/FelipeElias021)
 
 ## Contact:
 
