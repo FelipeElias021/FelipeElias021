@@ -4,10 +4,23 @@
    </a>
 </div>
 
+Class Me {
+  public string Name { get; private set; }
+  public int Age { get; set; }
+  public string City { get; set; }
+  public string Country { get; set; }
+  public string Country { get; set; }
+  public string Hobbies { get; set; }
+}
+
+Class {
+  Me myInformation = new Me ("Felipe ELias", 18, "Goiânia/GO", "Brazil", "Lol =/");
+}
+
 Hello,
-* I'm 18 years old, my name is Felipe
-* I Live in Goiânia/Go, Brazil
-* I'm currently studying Sistema de Informação - FASAM
+* I'm currently studying Information Systems / Sistema de Informação - FASAM
+* Learning about C# in this vacations
+* Working at Nassar Tecnologia as a trainee
 * I want to be better than yesterday
 
 <div align="left">
