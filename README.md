@@ -4,6 +4,7 @@
    </a>
 </div>
 
+```c#
 Class Me {
   public string Name { get; private set; }
   public int Age { get; set; }
@@ -13,9 +14,10 @@ Class Me {
   public string Hobbies { get; set; }
 }
 
-Class {
-  Me myInformation = new Me ("Felipe ELias", 18, "Goiânia/GO", "Brazil", "Lol =/");
+Class Program {
+  Me myInformation = new Me ("Felipe Elias", 18, "Goiânia/GO", "Brazil", "Lol =/");
 }
+```
 
 Hello,
 * I'm currently studying Information Systems / Sistema de Informação - FASAM
