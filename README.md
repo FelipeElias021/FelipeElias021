@@ -8,14 +8,14 @@ Class Me {
 }
 
 Class Program {
-  Me myInformation = new Me ("Felipe Elias", 18, "Goiânia/GO", "Brazil", "Lol =/");
+  Me myInformation = new Me ("Felipe Elias", 19, "Goiânia/GO", "Brazil", "Lol =/");
 }
 ```
 
 Hello,
 * I'm currently studying Information Systems / Sistema de Informação - FASAM
-* Learning about C# in this vacations
-* Working at Nassar Tecnologia as a trainee
+* Learning back ending developement
+* Working at Nassar Tecnologia as a auxiliar
 * I want to be better than yesterday
 
 <div align="left">
