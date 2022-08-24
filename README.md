@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://github.com/FelipeElias021">
-  <img  src="banner.jpeg"/>
-   </a>
-</div>
-
 ```c#
 Class Me {
   public string Name { get; private set; }
@@ -46,6 +40,3 @@ Hello,
   <a href = "mailto:fe.mourex21@gmail.com"><img src="https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-elias-a48783204/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-  
-![Snake animation](https://github.com/FelipeElias021/FelipeElias021/blob/output/github-contribution-grid-snake.svg)
-<!--Profile views-->
