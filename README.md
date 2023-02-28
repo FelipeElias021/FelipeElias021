@@ -18,12 +18,6 @@ Hello,
 * Working at Nassar Tecnologia as a auxiliar
 * I want to be better than yesterday
 
-<div align="left">
-  <a href="https://github.com/FelipeElias021">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeElias021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeElias021&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ## Languages:
   <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
