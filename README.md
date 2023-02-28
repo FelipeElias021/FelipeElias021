@@ -1,6 +1,6 @@
 ```c#
 Class Me {
-  public string Name { get; private set; }
+  public string Name { get; set; }
   public int Age { get; set; }
   public string City { get; set; }
   public string Country { get; set; }
@@ -8,7 +8,7 @@ Class Me {
 }
 
 Class Program {
-  Me myInformation = new Me ("Felipe Elias", 19, "Goiânia/GO", "Brazil", "Lol =/");
+  Me myInformation = new Me ("Felipe Elias", 19, "Goiânia/GO", "Brazil", "Valorant =/");
 }
 ```
 
