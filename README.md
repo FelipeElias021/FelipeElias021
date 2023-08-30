@@ -1,30 +1,7 @@
-```c#
-Class Me {
-  public string Name { get; set; }
-  public int Age { get; set; }
-  public string City { get; set; }
-  public string Country { get; set; }
-  public string Hobbies { get; set; }
-}
-
-Class Program {
-  Me myInformation = new Me ("Felipe Elias", 19, "Goiânia/GO", "Brazil", "Valorant =/");
-}
-```
-
 Hello,
+* 20y
 * I'm currently studying Information Systems / Sistema de Informação - FASAM
 * Learning back ending developement
-* Working at Nassar Tecnologia as a auxiliar
-* I want to be better than yesterday
-
-## Languages:
-  <div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
   
 ## Contact:
 <div>
